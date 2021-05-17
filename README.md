@@ -9,9 +9,9 @@
 Welcome my GitHub portfolio where I post some of my spare time projects.. hope you enjoy !
 
 <i>Glen HIGH</i>
-
+<br><br>
 ## About me:
-Front office team player, quantitative topics enthusiast! I work in the banking industry and am fond of tech
+Front office team player, quantitative topics enthusiast! I work in the banking industry and am fond of tech<br>
 Learning a new thing a day keeps the doctor away, if I may say so myself!
 
 
